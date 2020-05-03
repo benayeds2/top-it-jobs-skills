@@ -1,0 +1,32 @@
+{
+    "total": "/getAllList.php",
+    "skill": "/getListByType.php",
+    "country": "/getAllListByCountry.php",
+    "countype": "/getAllListByCountryByType.php",
+    "getcount": "/getByCountryById.php",
+    "sumbytype": "/getSumByCountryByType.php",
+    "totcount":"/getSumByCountry.php",
+    "sumAllCouByTYpe": "/getSumAllCountryByType.php",
+    "sumAllCouBySkill": "/getSumAllCountryBySkill.php",
+    "getListBySkill": "/getListBySkill.php",
+    "getListBySkillByDate": "/getListBySkillByDate.php",
+    "getSkillDet": "/getSkillDet.php",
+    "getCatDet": "/getCatDet.php",
+    "getListCat": "/getListCat.php",
+   "uploadCV": "/uploadPDF.php",
+     "sumAllCouBySkillByDate": "/getSumAllCountryBySkillByDate.php",
+    "getAllDataBySkill": "/getAllDataBySkill.php",
+    "getSumByCountryHist": "/getSumByCountryHist.php",
+    "getSumByCountryByTypeHist": "/getSumByCountryByTypeHist.php",
+    "getAllListByCountryHist": "/getAllListByCountryHist.php",
+    "getSumAllCountryByTypeHist": "/getSumAllCountryByTypeHist.php",
+    "getAllListByCountryByTypeHist": "/getAllListByCountryByTypeHist.php",
+    "getListByTypeHist": "/getListByTypeHist.php",
+    "getSumAllCountryHist": "/getSumAllCountryHist.php"
+    
+    
+    
+
+    
+    
+}
