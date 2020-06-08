@@ -12,7 +12,7 @@
     "getListBySkillByDate": "https://top-it-job-skills.000webhostapp.com/getListBySkillByDate.php",
     "getSkillDet": "https://top-it-job-skills.000webhostapp.com/getSkillDet.php",
     "getCatDet": "https://top-it-job-skills.000webhostapp.com/getCatDet.php",
-    "getListCat": "http://top-it-job-skills.000webhostapp.com/getListCat.php",
+    "getListCat": "https://top-it-job-skills.000webhostapp.com/getListCat.php",
    "uploadCV": "https://top-it-job-skills.000webhostapp.com/uploadPDF.php",
      "sumAllCouBySkillByDate": "https://top-it-job-skills.000webhostapp.com/getSumAllCountryBySkillByDate.php",
     "getAllDataBySkill": "https://top-it-job-skills.000webhostapp.com/getAllDataBySkill.php",
